@@ -1,4 +1,4 @@
 baseURL = "https://github.com/taytsexin/taytsexxin.github.io.git"
 languageCode = 'en-us'
 title = "Tse Xin's Work Experience at Science Centre DFS"
-theme = "beautiful-hugo"
+theme = "beautifulhugo"
